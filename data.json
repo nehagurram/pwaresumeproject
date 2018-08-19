@@ -1,0 +1,57 @@
+{
+	"details": {
+		"image":"image.png",
+		"name":"neha",
+		"phonenumber":"+91-9846948854",
+		"email":"shiny.gurram@gmail.com",
+		"addres":"vignan's nirula."
+
+},
+"career":{
+	"info":"to pursue a challenging career and be a .........."
+},
+"education":[
+{
+	"qualification":"b.tech",
+	"institute":"vignan college",
+	"year":"2016-2020",
+	"percentage":"98%"
+
+},
+{
+	"qualification":"intermediate",
+	"institute":"sri chaitanya college",
+	"year":"2015-2016",
+	"percentage":"80%"
+
+},
+{
+	"qualification":"10th",
+	"institute":"bhashyam public school",
+	"year":"2014",
+	"percentage":"90%"
+}
+],
+	"skills":[{
+
+			"title":"programming languages",
+			"info":["c","c++","java"]
+		},
+		{
+			"title":"database",
+			"info":["C","mysql","sql"]
+		},
+		{
+			"title":"operating system",
+			"info":["unix","linux","MAC"]
+		}
+		],
+		"achievements":[
+			{
+			"title":"first in ppt"
+		},
+		{
+			"title":"second in acadamics"
+		}
+	]
+}		
